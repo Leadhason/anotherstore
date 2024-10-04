@@ -2,7 +2,7 @@ const products = [
     {
       id: 1,
       name: 'Samsung Galaxy Book Pro 360',
-      href: '#',
+      href: '/ProductDetails',
       imageSrc: '/TrendingProducts/Samsung.jpg',
       imageAlt: "Samsumg",
       price: '$35',
@@ -11,7 +11,7 @@ const products = [
     {
         id: 3,
         name: 'Lenovo ThinkBook Super Charged Brain Boost 77789',
-        href: '#',
+        href: '/ProductDetails',
         imageSrc: '/TrendingProducts/Lenovo-ThinkBook.jpg',
         imageAlt: "Lenovo-ThinkBook",
         price: '$35',
@@ -20,7 +20,7 @@ const products = [
       {
         id: 4,
         name: 'MacBook-Pro Think Rich Grow Awesome 20884',
-        href: '#',
+        href: '/ProductDetails',
         imageSrc: '/TrendingProducts/MacBook-Pro.jpg',
         imageAlt: "MacBook-Pro",
         price: '$35',
